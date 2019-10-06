@@ -1,7 +1,7 @@
 /*
  * Example: Insert the node in linkedlist with priority.
  * 	    Each structure has property prio.
- * 	    you have to insert new node with prio.
+ * 	    you have to insert new node with accending priority.
  * 
  * Author: Girish Bhangale <girish.1605@gmail.com>
  */
