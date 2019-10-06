@@ -58,7 +58,7 @@ int main()
 	do{
 		printf("- - - Choice - - -\n\
 			\r1. Insert Node\n\
-			\r9. Display\n\ 
+			\r9. Display\n\
 			\r0. EXIT\n\n\
 			\rEnter your choice: ");
 		scanf(" %d", &choice);
